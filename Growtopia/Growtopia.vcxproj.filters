@@ -1,0 +1,117 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;c++;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hh;hpp;hxx;h++;hm;inl;inc;ipp;xsd</Extensions>
+    </Filter>
+    <Filter Include="Resource Files">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+    <Filter Include="Header Files\Server">
+      <UniqueIdentifier>{6640cb0a-57c6-44c6-8487-a6eca67ed0b8}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\GamePacket">
+      <UniqueIdentifier>{99619ab0-79d2-4600-8da8-00e26c84acef}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\Player">
+      <UniqueIdentifier>{f964b817-2601-490c-b144-7b6fb900bfb6}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\World">
+      <UniqueIdentifier>{5a6d9a59-7dc4-48d6-a764-325a8ace147b}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\Message">
+      <UniqueIdentifier>{ddfa9b58-8f6e-4e20-bdd3-63321b04fde0}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\Items">
+      <UniqueIdentifier>{30827bad-953d-4ecc-a4e0-c395654d9435}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\World\Tile">
+      <UniqueIdentifier>{91a7a766-8ff2-45e4-b6c1-adb17a60c30f}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\Server\Date &amp; Time">
+      <UniqueIdentifier>{cdcd9f70-cb62-4279-bb6b-799f67f335c2}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\Server\Variable">
+      <UniqueIdentifier>{704f5589-a2dc-4584-992b-27380718bb16}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\Server\Event">
+      <UniqueIdentifier>{e7051ab1-a9fa-4679-a09f-cfb115cbc5bc}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="Server_Func.cpp">
+      <Filter>Header Files\Server</Filter>
+    </ClCompile>
+    <ClCompile Include="GamePacket.cpp">
+      <Filter>Header Files\GamePacket</Filter>
+    </ClCompile>
+    <ClCompile Include="Player_Info.cpp">
+      <Filter>Header Files\Player</Filter>
+    </ClCompile>
+    <ClCompile Include="World_Info.cpp">
+      <Filter>Header Files\World</Filter>
+    </ClCompile>
+    <ClCompile Include="Message.cpp">
+      <Filter>Header Files\Message</Filter>
+    </ClCompile>
+    <ClCompile Include="Items_Info.cpp">
+      <Filter>Header Files\Items</Filter>
+    </ClCompile>
+    <ClCompile Include="World_TileFunc.cpp">
+      <Filter>Header Files\World\Tile</Filter>
+    </ClCompile>
+    <ClCompile Include="Time.cpp">
+      <Filter>Header Files\Server\Date &amp; Time</Filter>
+    </ClCompile>
+    <ClCompile Include="Global_Variable.cpp">
+      <Filter>Header Files\Server\Variable</Filter>
+    </ClCompile>
+    <ClCompile Include="Source.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Event_Handler.cpp">
+      <Filter>Header Files\Server\Event</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="Server_Func.h">
+      <Filter>Header Files\Server</Filter>
+    </ClInclude>
+    <ClInclude Include="GamePacket.h">
+      <Filter>Header Files\GamePacket</Filter>
+    </ClInclude>
+    <ClInclude Include="Player_Info.h">
+      <Filter>Header Files\Player</Filter>
+    </ClInclude>
+    <ClInclude Include="World_Info.h">
+      <Filter>Header Files\World</Filter>
+    </ClInclude>
+    <ClInclude Include="Message.h">
+      <Filter>Header Files\Message</Filter>
+    </ClInclude>
+    <ClInclude Include="Dialog.h">
+      <Filter>Header Files\Message</Filter>
+    </ClInclude>
+    <ClInclude Include="Items_Info.h">
+      <Filter>Header Files\Items</Filter>
+    </ClInclude>
+    <ClInclude Include="World_TileFunc.h">
+      <Filter>Header Files\World\Tile</Filter>
+    </ClInclude>
+    <ClInclude Include="Time.h">
+      <Filter>Header Files\Server\Date &amp; Time</Filter>
+    </ClInclude>
+    <ClInclude Include="Global_Variable.h">
+      <Filter>Header Files\Server\Variable</Filter>
+    </ClInclude>
+    <ClInclude Include="Event_Handler.h">
+      <Filter>Header Files\Server\Event</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>

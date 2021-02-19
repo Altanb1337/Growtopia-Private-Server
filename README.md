@@ -7,6 +7,8 @@
 
 > ***DO NOT repost this source in any place and selling it, or calling you're the one who made this source!***
 
+> ***The main function is located at `Event_Handler.h` inside `void runEvent()`
+
 - No credits is fine.
 ## DO NOT DO THIS
 **DO NOT** declare the namespace in the header file as it's a dangerious thing to do.

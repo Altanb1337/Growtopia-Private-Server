@@ -1,6 +1,8 @@
 # Growtopia Private Server Source Code
 **This is a re created version of [GrowtopiaNoobs' Project](https://github.com/LucarioGamer/GrowtopiaServer)**. Use this for your own will
 
+`Please note that the Project MUST be compiled with Release x86.`
+
 > **The header files are already filtered. There's nothing that you need to worry about regarding the category**
 
 > ***I won't be responsible for any bugs and errors that may occur as this source code isn't meant to be used by new people who just learned C++.***

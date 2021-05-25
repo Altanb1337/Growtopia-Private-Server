@@ -1,4 +1,6 @@
-# Growtopia Private Server Source Code
+# Repository Archieved
+***Because too many bugs, this source code isn't capable to be used.***
+~~## Growtopia Private Server Source Code~~
 **This is a re created version of [GrowtopiaNoobs' Project](https://github.com/LucarioGamer/GrowtopiaServer)**. Use this for your own will
 
 > **The header files are already filtered. There's nothing that you need to worry about regarding the category**

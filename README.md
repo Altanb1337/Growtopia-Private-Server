@@ -16,3 +16,6 @@
 **DO NOT** declare the namespace in the header file as it's a dangerious thing to do.
 
 ~ LinkProfit
+
+
+https://youtu.be/mImDKCMW3eQ
